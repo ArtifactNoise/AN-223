@@ -1,4 +1,4 @@
-# AN-222 USB-TypeC ユニバーサルAudio基板・黒 
+# AN-223 USB-TypeC ユニバーサルAudio基板・黒 
 
 ![商品画像](./img/1024x1024/DSC_3239.png)
 
